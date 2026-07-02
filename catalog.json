@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Verify Numerical Reasoning",
+    "url": "https://www.shl.com/products/assessments/cognitive-assessments/",
+    "test_type": "Cognitive",
+    "description": "Measures the ability to make correct decisions or inferences from numerical or statistical data presented in graphs, charts, and tables. Suitable for roles requiring data interpretation and financial judgment."
+  },
+  {
+    "name": "Verify Verbal Reasoning",
+    "url": "https://www.shl.com/products/assessments/cognitive-assessments/",
+    "test_type": "Cognitive",
+    "description": "Measures the ability to understand and evaluate written information. Suitable for roles requiring strong communication, document comprehension, or policy interpretation."
+  },
+  {
+    "name": "Verify Inductive Reasoning",
+    "url": "https://www.shl.com/products/assessments/cognitive-assessments/",
+    "test_type": "Cognitive",
+    "description": "Measures the ability to identify patterns and logical rules in abstract sequences. Best for roles requiring strategic thinking, innovation, or complex problem-solving."
+  },
+  {
+    "name": "Verify Deductive Reasoning",
+    "url": "https://www.shl.com/products/assessments/cognitive-assessments/",
+    "test_type": "Cognitive",
+    "description": "Measures the ability to draw logical conclusions from given premises. Suitable for analytical, legal, and consulting roles."
+  },
+  {
+    "name": "Verify Mechanical Comprehension",
+    "url": "https://www.shl.com/products/assessments/cognitive-assessments/",
+    "test_type": "Cognitive",
+    "description": "Measures understanding of mechanical and physical principles. Ideal for engineering, manufacturing, technical trades, and maintenance roles."
+  },
+  {
+    "name": "Verify Checking",
+    "url": "https://www.shl.com/products/assessments/cognitive-assessments/",
+    "test_type": "Cognitive",
+    "description": "Measures accuracy and attention to detail when comparing information. Best for data entry, administrative, and clerical roles."
+  },
+  {
+    "name": "Verify G+ (General Ability)",
+    "url": "https://www.shl.com/products/assessments/cognitive-assessments/",
+    "test_type": "Cognitive",
+    "description": "A combined measure of verbal, numerical, and inductive reasoning providing an overall general cognitive ability score. Efficient for broad screening across a wide range of roles."
+  },
+  {
+    "name": "OPQ (Occupational Personality Questionnaire)",
+    "url": "https://www.shl.com/products/assessments/personality-assessment/shl-occupational-personality-questionnaire-opq/",
+    "test_type": "Personality",
+    "description": "Measures 32 personality characteristics related to workplace performance across relationships with people, thinking style, and feelings and emotions. Used for leadership, management, sales, and culture-fit assessment."
+  },
+  {
+    "name": "MQ (Motivation Questionnaire)",
+    "url": "https://www.shl.com/products/assessments/personality-assessment/shl-motivation-questionnaire-mq/",
+    "test_type": "Personality",
+    "description": "Measures what energises and motivates individuals at work across 18 motivational dimensions. Helps predict engagement, retention risk, and role fit."
+  },
+  {
+    "name": "ADEPT-15",
+    "url": "https://www.shl.com/products/assessments/personality-assessment/",
+    "test_type": "Personality",
+    "description": "A short validated personality assessment covering 15 key workplace traits. Designed for high-volume hiring where speed and efficiency matter."
+  },
+  {
+    "name": "Situational Judgement Test (SJT)",
+    "url": "https://www.shl.com/products/assessments/behavioral-assessments/situation-judgement-tests-sjt/",
+    "test_type": "Situational Judgement",
+    "description": "Presents candidates with realistic work scenarios and asks how they would respond. Assesses judgment and behavioural tendencies. Ideal for graduate programmes, customer-facing, and managerial roles."
+  },
+  {
+    "name": "Global Skills Assessment (GSA)",
+    "url": "https://www.shl.com/products/assessments/behavioral-assessments/global-skills-assessment-gsa/",
+    "test_type": "Behavioral",
+    "description": "Evaluates critical workplace competencies including communication, collaboration, adaptability, and problem-solving across global talent pools."
+  },
+  {
+    "name": "Work Safety Assessment",
+    "url": "https://www.shl.com/products/assessments/job-focused-assessments/",
+    "test_type": "Job Focused",
+    "description": "Measures safety-conscious attitudes and behaviours to identify candidates likely to follow safety procedures and reduce workplace accidents. Best for manufacturing, logistics, construction, and high-risk environments."
+  },
+  {
+    "name": "Job-Focused Assessments",
+    "url": "https://www.shl.com/products/assessments/job-focused-assessments/",
+    "test_type": "Job Focused",
+    "description": "A suite of assessments tailored to specific job families such as contact centre, retail, administrative, and professional services, combining cognitive and behavioural measures calibrated to the target role."
+  },
+  {
+    "name": "Call Centre Simulation",
+    "url": "https://www.shl.com/products/assessments/skills-and-simulations/call-center-simulations/",
+    "test_type": "Skills & Simulations",
+    "description": "Simulates real contact centre tasks including handling calls, managing customer queries, and multitasking. Predicts on-the-job performance in customer service and BPO roles."
+  },
+  {
+    "name": "Business Skills Assessment",
+    "url": "https://www.shl.com/products/assessments/skills-and-simulations/business-skills/",
+    "test_type": "Skills & Simulations",
+    "description": "Evaluates practical business skills such as writing, data analysis, prioritisation, and business communication. Suitable for professional, graduate, and managerial roles."
+  },
+  {
+    "name": "Coding Simulations",
+    "url": "https://www.shl.com/products/assessments/skills-and-simulations/coding-simulations/",
+    "test_type": "Skills & Simulations",
+    "description": "Assesses real-world coding skills through hands-on simulations across multiple languages and frameworks. Best for software engineering and technical roles."
+  },
+  {
+    "name": "Technical Skills Assessment",
+    "url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/",
+    "test_type": "Skills & Simulations",
+    "description": "Measures job-specific technical knowledge in areas such as IT, engineering, finance, and operations. Configurable to the specific requirements of the role."
+  },
+  {
+    "name": "Language Proficiency Assessment",
+    "url": "https://www.shl.com/products/assessments/skills-and-simulations/language-evaluation/",
+    "test_type": "Skills & Simulations",
+    "description": "AI-powered spoken and written language proficiency tests covering multiple languages. Suitable for customer-facing, international, and multilingual roles."
+  },
+  {
+    "name": "Assessment & Development Centre",
+    "url": "https://www.shl.com/products/assessments/assessment-and-development-centers/",
+    "test_type": "Assessment Centre",
+    "description": "A comprehensive blended assessment approach combining exercises such as role plays, group discussions, presentations, and in-trays. Used for senior hiring, leadership identification, and succession planning."
+  }
+]
